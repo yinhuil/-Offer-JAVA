@@ -1,1 +1,2 @@
-用RNN实现mnist
+jianzhioffer文件是新版剑指offer里面的所有java代码
+leetcode是指牛客网上LeetCode的大部分题
