@@ -1,2 +1,1 @@
-这个最新版剑指offer的全部题目
-并且全部用java实现
+用RNN实现mnist
